@@ -1,0 +1,31 @@
+    [
+        {
+            "name": "The 4 Seasons",
+            "description": "Breathtaking view",
+            "Rating": "8.16",
+            "episode": 500,
+            "categorie":"north",
+            "studio":"Tiberious 6",
+            "img": "https://www.easywed.co.il/blog/wp-content/uploads/2015/01/%D7%A9%D7%95%D7%98%D7%A8%D7%A1-3-1024x683.jpg"
+        },
+        {
+            "name": "Gome Gurden",
+            "description": "If you can imagine it we will create it",
+            "Rating": "8.54",
+            "episode": 700,
+             "categorie":"south",
+            "studio":"ahkelon 13",
+            "img": "http://myday.ynet.co.il/en/wp-content/blogs.dir/en/files/2013/07/1318.jpg"
+        },
+
+        {
+            "name": "Roy Halls",
+            "description": "Up to 500 guests",
+            "Rating": "9.11",
+            "episode": 148,
+            "categorie":"center",
+            "studio":"Tel Aviv hunger 27",
+            "img": "https://www.utopiapark.co.il/images/300-250/P1150420.jpg"
+        }
+
+    ]

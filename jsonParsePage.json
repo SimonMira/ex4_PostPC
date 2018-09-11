@@ -1,0 +1,49 @@
+    [
+        {
+            "name": "The 4 Seasons",
+            "description": "Breathtaking view",
+            "address": "Tiberias 6",
+            "phone": 972523064487,
+            "mail":"4seas@gmail.com",
+            "region":"north",
+            "img": "https://www.easywed.co.il/blog/wp-content/uploads/2015/01/%D7%A9%D7%95%D7%98%D7%A8%D7%A1-3-1024x683.jpg",
+            "bid":0,
+            "winter_price": 150,
+            "summer_price": 250,
+            "business_type": 0,
+            "handikaped": true,
+            "kosher": true
+        },
+        {
+            "name": "The blue cost",
+            "description": "Up to 500 people",
+            "address": "hatzor 96",
+            "phone": 972565664487,
+            "mail":"blucost@gmail.com",
+            "region":"north",
+            "img": "http://myday.ynet.co.il/en/wp-content/blogs.dir/en/files/2013/07/1318.jpg",
+            "bid":1,
+            "winter_price": 150,
+            "summer_price": 250,
+            "business_type": 0,
+            "handikaped": true,
+            "kosher": true
+        },
+
+        {
+            "name": "Amakim",
+            "description": "dream out loud",
+            "address": "rosh pina 6",
+            "phone": 972565989487,
+            "mail":"amakim@gmail.com",
+            "region":"north",
+            "img": "https://www.utopiapark.co.il/images/300-250/P1150420.jpg",
+            "bid":2,
+            "winter_price": 150,
+            "summer_price": 250,
+            "business_type": 0,
+            "handikaped": true,
+            "kosher": true
+        }
+
+    ]
